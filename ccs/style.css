@@ -17,7 +17,7 @@ body {
 
 /* Encabezado */
 header {
-    background-color: #ff7200;
+    background-color: #f4f4f4;
     padding: 1rem;
     display: flex;
     justify-content: space-between;
@@ -38,7 +38,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #1f1c1a;
     text-decoration: none;
     font-size: 1.2rem;
 }
@@ -144,3 +144,13 @@ footer ul li a {
     color: white;
     text-decoration: none;
 }
+
+
+
+
+
+
+
+
+
+
