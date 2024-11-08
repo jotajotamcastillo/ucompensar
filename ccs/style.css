@@ -1,4 +1,4 @@
-/* Reset básico */
+/* Básico */
 * {
     margin: 0;
     padding: 0;
@@ -43,20 +43,20 @@ nav ul li a {
     font-size: 1.2rem;
 }
 
-/* Hero Section */
-.hero {
+/* Banner Section */
+.banner {
     text-align: center;
     background-color: #ff7200;
     color: white;
     padding: 2rem;
 }
 
-.hero h1 {
+.banner h1 {
     font-size: 2.5rem;
     margin-bottom: 1rem;
 }
 
-.hero p {
+.banner p {
     font-size: 1.2rem;
 }
 
